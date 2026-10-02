@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!--
+    PLACEHOLDER favicon.svg — replace with your project's real brand icon.
+    Change the letter "P" and colours to match your project.
+    Generate final favicons at: https://favicon.io
+  -->
+  <rect width="32" height="32" rx="6" fill="#0d1117"/>
+  <text x="50%" y="50%"
+        dominant-baseline="central"
+        text-anchor="middle"
+        font-family="system-ui, sans-serif"
+        font-size="18"
+        font-weight="700"
+        fill="#58a6ff">P</text>
+</svg>

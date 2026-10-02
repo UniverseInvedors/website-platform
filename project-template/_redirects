@@ -1,0 +1,8 @@
+﻿# Cloudflare Pages — Redirects (project template)
+# Replace PROJECT_SUBDOMAIN.universeinvedors.tech with your real subdomain.
+
+# Example: redirect old paths to new ones
+# /old-path   /new-path   301
+
+# SPA fallback — uncomment only if this becomes a single-page app
+# /*   /index.html  200

@@ -1,0 +1,12 @@
+﻿# ads.txt — PROJECT_NAME (PROJECT_SUBDOMAIN.universeinvedors.tech)
+#
+# IMPORTANT: ads.txt must be served at the ROOT of each subdomain:
+#   https://PROJECT_SUBDOMAIN.universeinvedors.tech/ads.txt
+#
+# ── STATUS: PLACEHOLDER ───────────────────────────────────────────────
+# Replace this file content with your real AdSense entry.
+# See ADSENSE_SETUP.md for full instructions.
+#
+# EXAMPLE (do not use — illustrative only):
+#   google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# ─────────────────────────────────────────────────────────────────────

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  sitemap.xml — PROJECT_NAME
+  Replace PROJECT_SUBDOMAIN.universeinvedors.tech with your real subdomain.
+  Update <lastmod> whenever pages change.
+  Submit to Google Search Console: https://PROJECT_SUBDOMAIN.universeinvedors.tech/sitemap.xml
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://PROJECT_SUBDOMAIN.universeinvedors.tech/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://PROJECT_SUBDOMAIN.universeinvedors.tech/about.html</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://PROJECT_SUBDOMAIN.universeinvedors.tech/contact.html</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://PROJECT_SUBDOMAIN.universeinvedors.tech/privacy.html</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://PROJECT_SUBDOMAIN.universeinvedors.tech/terms.html</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Add additional URLs as your project grows:
+  <url>
+    <loc>https://PROJECT_SUBDOMAIN.universeinvedors.tech/your-page.html</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  -->
+
+</urlset>

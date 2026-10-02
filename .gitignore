@@ -1,0 +1,58 @@
+# ============================================================
+# .gitignore — Static Website Infrastructure
+# ============================================================
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/settings.json
+.vscode/launch.json
+.vscode/*.code-workspace
+
+# Keep VS Code extensions and recommended settings
+!.vscode/extensions.json
+!.vscode/settings.example.json
+
+# Node (if ever used for build tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment / secrets — NEVER commit these
+.env
+.env.local
+.env.*.local
+*.env
+
+# Build output (if a build step is added later)
+dist/
+build/
+.cache/
+.parcel-cache/
+
+# Cloudflare
+.wrangler/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~

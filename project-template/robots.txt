@@ -1,0 +1,11 @@
+﻿# robots.txt — PROJECT_NAME
+# https://PROJECT_SUBDOMAIN.universeinvedors.tech/robots.txt
+#
+# Replace PROJECT_SUBDOMAIN.universeinvedors.tech with your real subdomain.
+
+User-agent: *
+Allow: /
+
+Disallow: /404.html
+
+Sitemap: https://PROJECT_SUBDOMAIN.universeinvedors.tech/sitemap.xml

@@ -1,0 +1,9 @@
+# This directory holds favicon files.
+# Required files:
+#   favicon.ico          — 32×32, legacy browsers
+#   favicon.svg          — scalable, modern browsers
+#   apple-touch-icon.png — 180×180, iOS home screen
+#
+# Free generators:
+#   https://favicon.io
+#   https://realfavicongenerator.net
